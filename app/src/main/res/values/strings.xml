@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MerchandiseList</string>
+    <string name="str_merchandise_time">下单时间:%s</string>
+    <string name="str_merchandise_price">共<b>%1$s</b>件商品 合计:<b>¥%2$s</b></string>
+</resources>

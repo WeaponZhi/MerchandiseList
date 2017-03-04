@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+    <color name="orange">#ec832e</color>
+    <color name="light_orange">#ff9f52</color>
+    <color name="deep_orange">#F47E1E</color>
+    <color name="red_orange">#f44c32</color>
+    <!--头部主色调-->
+    <color name="app_main_color">#e15517</color>
+    <!--按钮和字体颜色-->
+    <color name="btn_color">#ee761f</color>
+    <color name="grey_line">#dddddd</color>
+    <color name="deep_grey_line">#c0c0c0</color>
+    <color name="black_text">#9b9b9b</color>
+    <color name="black">#000000</color>
+    <color name="grey_text">#617e97</color>
+    <color name="deep_color_line">#d5d6db</color>
+    <color name="light_grey_text">#b0becb</color>
+    <color name="red">#e7492b</color>
+    <color name="transparent_red">#FFF45D53</color>
+    <color name="light_red">#e37a73</color>
+    <color name="transparent">#00000000</color>
+    <color name="title_bg">#F4F3F3</color>
+    <color name="light_grey_bg">#f1f3f8</color>
+    <color name="light_blue">#2882dc</color>
+    <color name="transparency_grey">#a0ffffff</color>
+    <color name="transparent_white">#d0ffffff</color>
+    <color name="transparent_background">#50000000</color>
+    <color name="scrollbar_color">#ff808080</color>
+    <color name="tip_blue">#5d85cf</color>
+    <color name="tip_bg">#CCA07D</color>
+    <color name="half_color">#30000000</color>
+    <color name="toast_bg_color">#80000000</color>
+    <color name="qrcode_title_color">#1d222c</color>
+    <color name="my_profit_grey_color">#bac5cf</color>
+    <color name="grey_bar_color">#FFABADAF</color>
+    <color name="grey_bg">#f5f5f5</color>
+
+    <color name="radio_button_orange">#f7504a</color>
+    <color name="radio_button_grey">#697d91</color>
+    <color name="common_button_grey">#dddddd</color>
+
+    <color name="j_wheel_timebtn_nor">#54a3fa</color>
+    <color name="j_wheel_timebtn_pre">#CCCCCC</color>
+    <color name="register_title_textcolor">#333333</color>
+    <color name="register_content_edittext_hint">#b5bbc9</color>
+    <color name="register_text_selecting">#697d91</color>
+    <color name="register_text_unselected">#b5bbc9</color>
+    <color name="common_orange">#fc7946</color>
+    <color name="divider_color">#e0e0e0</color>
+    <color name="gesture_point_color">#fc7c4a</color>
+    <color name="ll_right_text">#888888</color>
+    <color name="grey_middle">#999999</color>
+    <color name="percent_number">#39b6de</color>
+    <color name="alarm_yellow">#fff790</color>
+    <color name="alarm_text">#615e4c</color>
+    <color name="setting_blue">#47bbe0</color>
+    <color name="latest_announcement_text">#555555</color>
+    <color name="latest_announcement_text_70">#cf555555</color>
+    <color name="asset_black">#666666</color>
+    <color name="chart_yellow">#ffc549</color>
+    <color name="circle_null">#e2e5ec</color>
+    <color name="circle_inside">#ecf2f4</color>
+    <color name="login_transparent_white">#30ffffff</color>
+    <color name="white_with_80_transparent">#C4ffffff</color>
+</resources>

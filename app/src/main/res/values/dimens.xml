@@ -1,0 +1,53 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="head_height">48dp</dimen>
+    <dimen name="option_height">48dp</dimen>
+    <dimen name="big_btn_height">43dp</dimen>
+    <dimen name="minHeight">200dp</dimen>
+    <dimen name="cardHeight">120dp</dimen>
+    <dimen name="margin_top">25dp</dimen>
+    <dimen name="margin_middle">20dp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+    <dimen name="margin_top_line">1dp</dimen>
+    <dimen name="padding_top">10dp</dimen>
+    <dimen name="padding_left">10dp</dimen>
+    <dimen name="padding_right">10dp</dimen>
+    <dimen name="padding_bottom">10dp</dimen>
+    <dimen name="corners_normal">3dp</dimen>
+    <dimen name="padding_top_small">5dp</dimen>
+    <dimen name="line">1dp</dimen>
+    <dimen name="title_bar_padding_top">0dp</dimen>
+
+    <!-- 字体大小-->
+    <dimen name="text_size_smaller">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_middle">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_larger">20sp</dimen>
+    <dimen name="text_size_bigest">40sp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="customactivityoncrash_activity_horizontal_margin">16dp</dimen>
+    <dimen name="customactivityoncrash_activity_vertical_margin">16dp</dimen>
+    <dimen name="customactivityoncrash_error_activity_error_details_text_size">12sp</dimen>
+
+    <!--CalendarSelectActivity-->
+    <dimen name="calendar_select_margin">30dp</dimen>
+    <dimen name="margin_gesture">40dp</dimen>
+
+    <!-- 图片选择器-->
+    <dimen name="image_size">120dp</dimen>
+    <dimen name="space_size">2dp</dimen>
+    <dimen name="folder_cover_size">72dp</dimen>
+
+    <dimen name="refresh_header_height_twitter">80dp</dimen>
+    <dimen name="load_more_footer_height_twitter">60dp</dimen>
+
+    <dimen name="gudieview_width">6dp</dimen>
+    <dimen name="gudieview_heigh">6dp</dimen>
+
+    <dimen name="common_circle_width">3dp</dimen>
+</resources>
