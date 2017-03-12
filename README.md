@@ -2,7 +2,9 @@
 类淘宝订单界面，用MVP框架简易搭建
 这是效果图
 
-![GIF.gif](http://upload-images.jianshu.io/upload_images/3363394-843b1440a3ef2996.gif?imageMogr2/auto-orient/strip)
+![QQ图片20170305111231.png](http://upload-images.jianshu.io/upload_images/3363394-767e5cc8c36b8051.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![QQ图片20170305111245.png](http://upload-images.jianshu.io/upload_images/3363394-3a689c32f0e91104.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 值得一提的是，这里用到了一些其他开源代码，比如刷新样式swipetoloadlayout等，具体的使用方法大家可以百度搜下名字就行了，资料很多。
 
