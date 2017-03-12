@@ -14,4 +14,7 @@ import com.weaponzhi.merchandiselist.base.baseMVP.IBaseModel;
  */
 
 public class BaseModel implements IBaseModel{
+    public void cancleTasks(){
+        // TODO 终止线程池ThreadPool.shutDown()，AsyncTask.cancle()，或者调用框架的取消任务api
+    }
 }

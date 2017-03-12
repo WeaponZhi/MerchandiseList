@@ -73,10 +73,14 @@ public class MerchandiseListActivity extends BaseActivity {
      */
     private void initViewPager() {
         final ArrayList<Fragment> fragmentList = new ArrayList<>();
-        MerchandiseListBaseFragment merchandiseListAll = MerchandiseListBaseFragment.newInstance(0);
-        MerchandiseListBaseFragment merchandiseListDisPatch = MerchandiseListBaseFragment.newInstance(1);
-        MerchandiseListBaseFragment merchandiseListReceive = MerchandiseListBaseFragment.newInstance(2);
-        MerchandiseListBaseFragment merchandiseListFinish = MerchandiseListBaseFragment.newInstance(3);
+        MerchandiseListBaseFragment merchandiseListAll = MerchandiseListBaseFragment.
+                newInstance(0);
+        MerchandiseListBaseFragment merchandiseListDisPatch = MerchandiseListBaseFragment.
+                newInstance(1);
+        MerchandiseListBaseFragment merchandiseListReceive = MerchandiseListBaseFragment.
+                newInstance(2);
+        MerchandiseListBaseFragment merchandiseListFinish = MerchandiseListBaseFragment.
+                newInstance(3);
         MerchandiseListBaseFragment.firstGetData();
 
         fragmentList.add(merchandiseListAll);

@@ -141,6 +141,8 @@ public abstract class BaseActivity<P extends BasePresenter, M extends BaseModel>
         super.onDestroy();
         ButterKnife.unbind(this);
         MyApplication.getInstance().removeActivity(activity);
+        //防止内存泄漏，需要Presenter和Model执行资源释放操作
+        mPresenter.onDestroy();
     }
 
     /**
